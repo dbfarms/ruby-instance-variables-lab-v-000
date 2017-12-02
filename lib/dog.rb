@@ -1,3 +1,3 @@
-def dog
+class dog
 
-end 
+end
